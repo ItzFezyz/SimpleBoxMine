@@ -1,3 +1,3 @@
 # SimpleBoxMine
-This project will be a plugin for Minecraft(Java) this project will allow people to easily create BoxMines.
+This project will be a plugin for Minecraft(Java) this project will allow people to easily create BoxMines. /n
 which will have compressors if the config is on for that and mines that will have customizeablity.
